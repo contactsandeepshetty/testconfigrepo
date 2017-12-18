@@ -13,7 +13,7 @@ spring:
        queue:
          name: JMS_QUEUE_NAME
          
-ngf:
+abc:
    file:
       inbound:
            path: /c/LANDING_ZONE
