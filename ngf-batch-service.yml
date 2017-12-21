@@ -18,7 +18,7 @@ spring:
     activemq:
        broker-url: tcp://localhost:61616
        queue:
-         name: JMS_QUEUE_DEFAULT
+         name: JMS_QUEUE
          
 ngf:
    file:
