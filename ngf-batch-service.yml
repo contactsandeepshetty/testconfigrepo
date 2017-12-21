@@ -23,7 +23,7 @@ spring:
 ngf:
    file:
       inbound:
-           path: C:\\DATA\\NGF_CODEBASE\\NGF-173\\FILES\\DEV\\LANDINGZONE
+           path: C:\\DATA\\NGF_CODEBASE\\NGF-173\\FILES\\DEFAULT\\LANDINGZONE
       archive:
            enabled: true
-           path: C:\\DATA\\NGF_CODEBASE\\NGF-173\\FILES\\DEV\\ARCHIVEZONE
+           path: C:\\DATA\\NGF_CODEBASE\\NGF-173\\FILES\\DEFAULT\\ARCHIVEZONE
