@@ -1,0 +1,12 @@
+debug: true
+security:
+  basic:
+    enabled: true
+  require-ssl: false
+  user:
+    name: admin
+    password: admin
+server:
+  port: 8080
+  ssl:
+    enabled: false
