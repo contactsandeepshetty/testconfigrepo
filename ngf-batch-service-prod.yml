@@ -14,7 +14,7 @@ spring:
         initialize: true
     batch:
        job:
-         enabled:false
+         enabled: false
     activemq:
        broker-url: tcp://localhost:61616
        queue:
