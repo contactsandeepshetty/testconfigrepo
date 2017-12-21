@@ -7,7 +7,7 @@ server:
 
 spring:
     datasource:
-        url: jdbc:mysql://localhost/springbatchdbtest
+        url: jdbc:mysql://localhost/springbatchdbprod
         username: root
         password: Nov@1234
         driver-class-name: com.mysql.jdbc.Driver
@@ -18,7 +18,7 @@ spring:
     activemq:
        broker-url: tcp://localhost:61616
        queue:
-         name: JMS_QUEUE_TEST
+         name: JMS_QUEUE_PROD
          
 ngf:
    file:
